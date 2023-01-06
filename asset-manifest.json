@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlanNews/static/css/main.c5a36499.css",
+    "main.js": "/AlanNews/static/js/main.60d9d2c1.js",
+    "static/media/newsplaceholder.png": "/AlanNews/static/media/newsplaceholder.e24ebba0351a2075a9b3.png",
+    "static/media/alan.jpg": "/AlanNews/static/media/alan.ba1acf33c4165192fde0.jpg",
+    "index.html": "/AlanNews/index.html",
+    "main.c5a36499.css.map": "/AlanNews/static/css/main.c5a36499.css.map",
+    "main.60d9d2c1.js.map": "/AlanNews/static/js/main.60d9d2c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a36499.css",
+    "static/js/main.60d9d2c1.js"
+  ]
+}
